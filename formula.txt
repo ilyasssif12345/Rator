@@ -1,0 +1,8 @@
+general formula :
+
+final rating = (total stars + 5* new reviews) / (cuurent reviews + new reviews)
+
+The rev_added formula is extracted form the previous one with simple equation operations.
+
+
+
